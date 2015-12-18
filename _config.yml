@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
+relative_permalinks: true
 
 # Setup
 title:            Evil contraption
@@ -17,7 +17,7 @@ author:
   name:           'mkuzak'
   url:            https://twitter.com/matkuzak
 
-# paginate:         5
+paginate:         5
 
 # Custom vars
 version:          2.1.0
